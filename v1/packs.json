@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "fr-denise.zip", "bytes": 57017575, "sha256": "94f52bcc0f89e023988f21c90961c83b114ea5d08463fd4ea4742cca61dbc42d"}
+  ]
+}
