@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "fr-denise",
+  "edgeVoice": "fr-FR-DeniseNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 126,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Trouvez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 2,
+      "text": "Laissez les mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 3,
+      "text": "Adoucissez les yeux ou fermez-les.",
+      "file": "c003.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 4,
+      "text": "Inspirez lentement.",
+      "file": "c004.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 5,
+      "text": "Et une expiration plus longue.",
+      "file": "c005.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 6,
+      "text": "Imaginez-vous assis près d’une fenêtre par une journée calme et pluvieuse.",
+      "file": "c006.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 7,
+      "text": "Le verre est cool. Monde doux dehors.",
+      "file": "c007.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 8,
+      "text": "[pause : 30]",
+      "file": "c008.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 9,
+      "text": "Écoutez la pluie sans avoir besoin d'une histoire.",
+      "file": "c009.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 10,
+      "text": "Petits robinets. Chutes parfois plus lourdes.",
+      "file": "c010.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 11,
+      "text": "[pause : 36]",
+      "file": "c011.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 12,
+      "text": "Sentez l’air propre et humide.",
+      "file": "c012.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 13,
+      "text": "Voir la lumière grise, douce et sans hâte.",
+      "file": "c013.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 14,
+      "text": "[pause : 30]",
+      "file": "c014.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 15,
+      "text": "Il n'y a nulle part où aller sous la pluie.",
+      "file": "c015.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 16,
+      "text": "Autorisation de pause.",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "[pause : 36]",
+      "file": "c017.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 18,
+      "text": "Respirez au rythme de l'eau sur le verre.",
+      "file": "c018.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 19,
+      "text": "[pause : 45]",
+      "file": "c019.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 20,
+      "text": "Laissez le système nerveux prendre le relais : adoucissez-vous.",
+      "file": "c020.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 21,
+      "text": "[pause : 36]",
+      "file": "c021.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 22,
+      "text": "Respirez encore une fois.",
+      "file": "c022.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 23,
+      "text": "Remuez les doigts.",
+      "file": "c023.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 24,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c024.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 25,
+      "text": "Emportez-en un peu avec vous.",
+      "file": "c025.ogg",
+      "durationSec": 4.176
+    }
+  ]
+}
